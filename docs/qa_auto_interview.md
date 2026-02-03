@@ -44,7 +44,6 @@
     </p>
 </details>
 
-
 <details>
     <summary>copy vs deepcopy — в чём разница?</summary>
     <p>

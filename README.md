@@ -13,7 +13,7 @@
 - [Python](resources/Python.md)
 - [Golang](resources/Golang.md)
 - [Developing](resources/Developers.md)
-- [Programming](docs/qa_auto_interview.md)
+- [Programming](resources/Python.md)
 - [SoftwarePatterns](<resources/Software design patterns.md>)
 - [SRE/DevOps](resources/DevOps.md)
 - [AI](<resources/AI.md>)
