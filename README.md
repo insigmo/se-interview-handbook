@@ -10,12 +10,12 @@
 Выберите одно направление и идите по нему.
 
 Доступные направления:
-- [Python](se-interview-handbook/resources/Python.md)
-- [Golang](se-interview-handbook/resources/Golang.md)
-- [Developing](se-interview-handbook/resources/Developers.md)
-- [Programming](se-interview-handbook/docs/qa_auto_interview.md)
-- [SoftwarePatterns](<se-interview-handbook/resources/Software design patterns.md>)
-- [SRE/DevOps](se-interview-handbook/resources/DevOps.md)
-- [AI](<se-interview-handbook/resources/AI.md>)
-- [SDET/QA](se-interview-handbook/resources/SDET&QA.md)
-- [PHP](se-interview-handbook/resources/PHP.md)
+- [Python](resources/Python.md)
+- [Golang](resources/Golang.md)
+- [Developing](resources/Developers.md)
+- [Programming](docs/qa_auto_interview.md)
+- [SoftwarePatterns](<resources/Software design patterns.md>)
+- [SRE/DevOps](resources/DevOps.md)
+- [AI](<resources/AI.md>)
+- [SDET/QA](resources/SDET&QA.md)
+- [PHP](resources/PHP.md)
