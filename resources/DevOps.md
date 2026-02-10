@@ -5,3 +5,5 @@
 | [Типовые вопросы с собеседований на DevOps/SRE](../docs/SRE_questions_interview.md) | Вопросы на собеседованиях на позицию SRE/DevOps                                      | Денис Гниламедов |
 | [Merion Academy на YouTube](https://www.youtube.com/@merionacademy)                 | Классный канал, где рассказывают про сети, Linux и различные программные обеспечения | Бетал Бербеков   |
 | [HTTP 1 2 3](https://www.youtube.com/watch?v=xc0A3phaXKk)                           | Как работает http запрос и какая разница между версиями http                         | Бетал Бербеков   |
+| [Типовые вопросы DevOps/QA](../docs/qa_devops.md)                                            | Вопросы на собеседованиях по DevOps/QA                                               | Азамат Хажидогов |
+
