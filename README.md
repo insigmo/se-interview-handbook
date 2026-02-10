@@ -19,3 +19,5 @@
 - [AI](<resources/AI.md>)
 - [SDET/QA](resources/SDET&QA.md)
 - [PHP](resources/PHP.md)
+
+Подготовились? Отлично, тогда пройдите [чеклист](se-interview-handbook/docs/Советы%20по%20написанию%20хороших%20резюме.md), чтобы проверить свое резюме
