@@ -1,4 +1,4 @@
-В этой папке собраны задачи по алгоритмам и структурам данных на языке Go. Каждый файл содержит:
+В этой папке собраны задачи по алгоритмам и структурам данных на языке Go. Задачи которые решаются, были взяты из [файла](../../docs/leetcode_tasks), где перечислен необходимый минимум для прохождения АА секции на собеседованиях. Каждый файл содержит:
 1. **Шаблон функции** - вам нужно реализовать решение задачи
 2. **Тесты** - готовые тестовые случаи для локального дебага и проверки решения
 
@@ -21,7 +21,7 @@
 | [Longest common prefix](../go/array/longest-common-prefix_test.go)                                                               | Найти самый длинный общий префикс среди строк                     | array         |
 | [Find all numbers disappeared in an array](../go/array/find-all-numbers-disappeared-in-an-array_test.go)                         | Найти все числа, которые отсутствуют в массиве                    | array         |
 | [How many numbers are smaller than the current number](../go/array/how-many-numbers-are-smaller-than-the-current-number_test.go) | Для каждого элемента массива посчитать, сколько чисел меньше него | array         |
-| [Binary search](../go/binary_search/binary_search_test.go)                                                                       | Классический алгоритм бинарного поиска                            | binary_search |
+| [Binary search](../go/binary_search/binary-search_test.go)                                                                       | Классический алгоритм бинарного поиска                            | binary_search |
 | [Search a 2d matrix](../go/binary_search/search-a-2d-matrix_test.go)                                                             | Поиск элемента в отсортированной 2D матрице                       | binary_search |
 | [Guess number higher or lower](../go/binary_search/guess-number-higher-or-lower_test.go)                                         | Угадать число с использованием подсказок "выше" или "ниже"        | binary_search |
 | [Search in rotated sorted array](../go/binary_search/search-in-rotated-sorted-array_test.go)                                     | Поиск в отсортированном массиве, который был повернут             | binary_search |
