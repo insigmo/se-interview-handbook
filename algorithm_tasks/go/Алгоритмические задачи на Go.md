@@ -14,7 +14,7 @@
 
 | Задача                                                                                                                                        | Описание                                                          | Папка         |
 | --------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- | ------------- |
-| [Concatenation of array](algorithm_tasks/go/array/concatenation-of-array_test.go)                                                             | Конкатенация массива с самим собой                                | array         |
+| [Concatenation of array](../algorithm_tasks/go/array/concatenation-of-array_test.go)                                                          | Конкатенация массива с самим собой                                | array         |
 | [Set mismatch](algorithm_tasks/go/array/set-mismatch_test.go)                                                                                 | Найти ошибку в наборе чисел (повторяющееся и отсутствующее число) | array         |
 | [Shuffle the array](algorithm_tasks/go/array/shuffle-the-array_test.go)                                                                       | Перемешивание массива по заданному алгоритму                      | array         |
 | [Max consecutive ones](algorithm_tasks/go/array/max-consecutive-ones_test.go)                                                                 | Найти максимальное количество последовательных единиц в массиве   | array         |
