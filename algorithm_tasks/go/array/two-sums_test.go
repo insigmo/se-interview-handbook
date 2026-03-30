@@ -1,6 +1,6 @@
 // https://leetcode.com/problems/two-sum/
 
-package hash_tables
+package array
 
 import "testing"
 
