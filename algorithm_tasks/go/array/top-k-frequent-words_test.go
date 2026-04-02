@@ -7,15 +7,15 @@ import (
 	"testing"
 )
 
+type wordStruct struct {
+	word string
+	freq int
+}
+
 func topKFrequent(words []string, k int) []string {
 	freq := make(map[string]int, len(words))
 	for _, word := range words {
 		freq[word]++
-	}
-
-	type wordStruct struct {
-		word string
-		freq int
 	}
 
 	var uniqueWords []wordStruct
