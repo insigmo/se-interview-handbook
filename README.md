@@ -18,7 +18,7 @@
 - [SRE/DevOps](resources/DevOps.md)
 - [AI](<resources/AI.md>)
 - [SDET/QA](resources/SDET&QA.md)
-- [SystemDesign](docs/systemdesign.html)
+- [SystemDesign](docs/systemdesign.html) - скачать и открыть с браузера html файл
 - [PHP](resources/PHP.md)
 
 Подготовились? Отлично, тогда пройдите [чеклист](docs/Советы%20по%20написанию%20хороших%20резюме.md), чтобы проверить свое резюме
