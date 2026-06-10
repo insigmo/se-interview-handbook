@@ -8,27 +8,36 @@ import (
 	"testing"
 )
 
-func merge(nums [][]int) [][]int {
-	n := len(nums)
-	res := make([][]int, 0, n/2)
-	sort.Slice(nums, func(a, b int) bool {
-		return nums[a][0] < nums[b][0]
+func merge(intervals [][]int) [][]int {
+	var ans [][]int
+
+	// Шаг 1: сортируем по левой границе интервала
+	// [1,3],[8,10],[2,6] → [1,3],[2,6],[8,10]
+	sort.Slice(intervals, func(i, j int) bool {
+		return intervals[i][0] < intervals[j][0]
 	})
 
-	res = append(res, nums[0])
-	for i := 1; i < n; i++ {
-		lastIntervalInResult := res[len(res)-1]
-		currentInterval := nums[i]
+	for _, interval := range intervals {
+		n := len(ans)
 
-		if currentInterval[0] <= lastIntervalInResult[1] {
-			if currentInterval[1] > lastIntervalInResult[1] {
-				lastIntervalInResult[1] = currentInterval[1]
-			}
-		} else {
-			res = append(res, currentInterval)
+		// Случай 1: ans пуст ИЛИ текущий интервал не пересекается с последним
+		// ans = [[1,3]], interval = [8,10]
+		// 8 > 3 → не пересекаются → просто добавляем
+		if n == 0 || interval[0] > ans[n-1][1] {
+			ans = append(ans, interval)
+
+			// Случай 2: интервалы пересекаются И текущий правее
+			// ans = [[1,3]], interval = [2,6]
+			// 2 <= 3 → пересечение; 6 > 3 → расширяем правую границу: [1,6]
+		} else if interval[1] > ans[n-1][1] {
+			ans[n-1][1] = interval[1]
 		}
+		// Случай 3 (неявный): текущий полностью внутри последнего
+		// ans = [[1,6]], interval = [2,4]
+		// 2 <= 6 AND 4 <= 6 → ничего не делаем, пропускаем
 	}
-	return res
+
+	return ans
 }
 
 func TestMerge(t *testing.T) {
