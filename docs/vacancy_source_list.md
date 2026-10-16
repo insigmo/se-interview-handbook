@@ -22,6 +22,13 @@
 6. [getmatch.ru/vacancies](https://getmatch.ru/vacancies)
 7. [headz.io](https://headz.io/)
 
+### Telegram каналы(РФ + Международные)
+1. [Мир it вакансий](https://t.me/+EOi1PB-b_4RmYzli)
+2. [BackEnd Работа вакансии](https://t.me/back_rabota)
+3. [Golang (GO) Работа Вакансии](https://t.me/rabota_golang)
+4. [Golang Go Jobs | Вакансии](https://t.me/golang_go_jobs_vakansii)
+5. [getmatch: бот с IT-вакансиями](https://t.me/g_jobbot)
+
 ### Международные сайты
 1. [indeed.com](https://indeed.com/)
 2. [google.com/about/careers](https://www.google.com/about/careers/)
