@@ -24,11 +24,12 @@
 
 ### Telegram каналы(РФ + Международные)
 1. [Digital nomads. Work from anywhere](https://t.me/+0zv_MNh22Xw3NTMy) - рекомендую посмотреть в первую очередь, тут часто про работу за рубежом
-2. [BackEnd Работа вакансии](https://t.me/back_rabota)
-3. [Golang (GO) Работа Вакансии](https://t.me/rabota_golang)
-4. [Golang Go Jobs | Вакансии](https://t.me/golang_go_jobs_vakansii)
-5. [getmatch: бот с IT-вакансиями](https://t.me/g_jobbot)
-6. [Мир it вакансий](https://t.me/+EOi1PB-b_4RmYzli)
+2. [100% remote job](https://t.me/aidynoJ)
+3. [BackEnd Работа вакансии](https://t.me/back_rabota)
+4. [Golang (GO) Работа Вакансии](https://t.me/rabota_golang)
+5. [Golang Go Jobs | Вакансии](https://t.me/golang_go_jobs_vakansii)
+6. [getmatch: бот с IT-вакансиями](https://t.me/g_jobbot)
+7. [Мир it вакансий](https://t.me/+EOi1PB-b_4RmYzli)
 
 ### Международные сайты
 1. [indeed.com](https://indeed.com/)
