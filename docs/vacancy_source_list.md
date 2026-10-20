@@ -23,11 +23,12 @@
 7. [headz.io](https://headz.io/)
 
 ### Telegram каналы(РФ + Международные)
-1. [Мир it вакансий](https://t.me/+EOi1PB-b_4RmYzli)
+1. [Digital nomads. Work from anywhere](https://t.me/+0zv_MNh22Xw3NTMy) - рекомендую посмотреть в первую очередь, тут часто про работу за рубежом
 2. [BackEnd Работа вакансии](https://t.me/back_rabota)
 3. [Golang (GO) Работа Вакансии](https://t.me/rabota_golang)
 4. [Golang Go Jobs | Вакансии](https://t.me/golang_go_jobs_vakansii)
 5. [getmatch: бот с IT-вакансиями](https://t.me/g_jobbot)
+6. [Мир it вакансий](https://t.me/+EOi1PB-b_4RmYzli)
 
 ### Международные сайты
 1. [indeed.com](https://indeed.com/)
